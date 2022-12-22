@@ -1,2 +1,2 @@
 # newreptest22122022
-# задание из второго урока про описание отпуска с исползьованием markdown
+# project description
